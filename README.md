@@ -40,7 +40,7 @@
 
 1. Клонируйте репозиторий:
 ```
-https://github.com/AleksaV77/-.git
+https://github.com/AleksaV77/Course-work-Project-2/tree/develop
 ```
 2. Установите зависимости:
 ```
