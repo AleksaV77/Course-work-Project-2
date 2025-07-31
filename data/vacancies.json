@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Коммерческий директор (CCO)",
+        "url": "https://api.hh.ru/vacancies/123411458?host=hh.ru",
+        "salary": 4000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/123346006?host=hh.ru",
+        "salary": 13000000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Управляющий",
+        "url": "https://api.hh.ru/vacancies/123279833?host=hh.ru",
+        "salary": 700000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Эксперт по административным делам",
+        "url": "https://api.hh.ru/vacancies/123207731?host=hh.ru",
+        "salary": 1320,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Бухгалтер",
+        "url": "https://api.hh.ru/vacancies/123292545?host=hh.ru",
+        "salary": 500000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Личный помощник",
+        "url": "https://api.hh.ru/vacancies/123332896?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Middle Backend разработчик",
+        "url": "https://api.hh.ru/vacancies/123350541?host=hh.ru",
+        "salary": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Руководитель отдела продаж, г. Алматы",
+        "url": "https://api.hh.ru/vacancies/123364032?host=hh.ru",
+        "salary": 1000000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Бухгалтер",
+        "url": "https://api.hh.ru/vacancies/123386827?host=hh.ru",
+        "salary": 400000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Личный помощник руководителя",
+        "url": "https://api.hh.ru/vacancies/123273815?host=hh.ru",
+        "salary": 225000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Инженер по тестированию",
+        "url": "https://api.hh.ru/vacancies/123462775?host=hh.ru",
+        "salary": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Бухгалтер- калькулятор",
+        "url": "https://api.hh.ru/vacancies/123430739?host=hh.ru",
+        "salary": 350000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Специалист по информационной безопасности (СИБ)",
+        "url": "https://api.hh.ru/vacancies/123427639?host=hh.ru",
+        "salary": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Руководитель юридического отдела",
+        "url": "https://api.hh.ru/vacancies/123462558?host=hh.ru",
+        "salary": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Специалист по написанию текстов с помощью искусственного интеллекта",
+        "url": "https://api.hh.ru/vacancies/122959576?host=hh.ru",
+        "salary": 45000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Инспектор отдела кадров",
+        "url": "https://api.hh.ru/vacancies/123445758?host=hh.ru",
+        "salary": 7000000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Исполнительный директор (CEO)",
+        "url": "https://api.hh.ru/vacancies/123457452?host=hh.ru",
+        "salary": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Менеджер проектов",
+        "url": "https://api.hh.ru/vacancies/123456868?host=hh.ru",
+        "salary": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Личный ассистент звездной семьи",
+        "url": "https://api.hh.ru/vacancies/122499394?host=hh.ru",
+        "salary": 90000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Руководитель отдела закупок",
+        "url": "https://api.hh.ru/vacancies/123454518?host=hh.ru",
+        "salary": 0,
+        "description": "Описание не указано"
+    }
+]
